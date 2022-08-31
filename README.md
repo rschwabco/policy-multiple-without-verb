@@ -1,1 +1,5 @@
-# policy-multiple-without-verb
+# policy-template
+
+Repository template for Aserto policy repos.
+
+
